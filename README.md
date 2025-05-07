@@ -42,6 +42,7 @@ Para representar tecnologias, pastas, arquivos e afins:
 📄 Arquivos diversos  
 📝 Anotações e observações técnicas
 - 📑 Índice
+- 📜 Licença
 - 🔹 Executar
 
 ---
