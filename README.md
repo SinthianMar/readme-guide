@@ -41,6 +41,8 @@ Para representar tecnologias, pastas, arquivos e afins:
 🧾 Estrutura de documentação ou relatórios  
 📄 Arquivos diversos  
 📝 Anotações e observações técnicas
+- 📑 Índice
+- 🔹 Executar
 
 ---
 
@@ -58,7 +60,7 @@ Para mostrar status de tarefas, progresso ou mudanças:
 
 ---
 
-### 4. 🤝 Colaboração e Equipe
+### 4. Colaboração e Equipe
 
 Ideal para destacar aspectos colaborativos:
 
@@ -69,7 +71,7 @@ Ideal para destacar aspectos colaborativos:
 
 ---
 
-### 5. 📡 Contato e Links
+### 5. Contato e Links
 
 📧 E-mail de contato  
 🔗 Links úteis ou navegação externa  
@@ -77,7 +79,7 @@ Ideal para destacar aspectos colaborativos:
 
 ---
 
-### 6. 🔵 Status de Projeto
+### 6. Status de Projeto
 
 🟢 Em andamento  
 🔴 Não iniciado ou interrompido  
@@ -87,10 +89,40 @@ Ideal para destacar aspectos colaborativos:
 
 ---
 
-> **Dica final**: Use com moderação. Priorize a clareza. 
+## 🔁 Sugestão de uso no Markdown
+
+```bash
+➤ Título Principal
+  ● Tópico
+    ○ Subtópico
+      ◦ Detalhe
+
+➜ Ação
+⭢ Fluxo
+⇨ Continuação
+```
 
 ---
 
+## 📂 Estrutura de Pastas
+
+```bash
+📁 src/
+├── aula01_Introducao
+├── aula02_TiposPrimitivos
+├── aula10_Condicionais
+├── aula20_Loops
+├── aula30_Arrays
+├── aula40_Metodos
+├── aula50_OrientacaoObjetos
+└── ...
+```
+
+---
+
+> **Dica final**: Use com moderação. Priorize a clareza. 
+
+---
 
 ## Tabelas para Readmes
 
@@ -132,9 +164,9 @@ Aqui estão algumas tabelas que podem ser úteis para organizar e apresentar inf
 | Testes e correções finais      | 01/09/2025     | 30/09/2025                 | 🟢 Em andamento |
 
 ---
-> _"Na simplicidade da ordem, nasce a elegância. Organizar é tornar o complexo compreensível."_  
-Por [Sinthian Marques ](https://www.linkedin.com/in/sinthianmarques)
 
+> _"Na simplicidade da ordem, nasce a elegância. Organizar é tornar o complexo compreensível."_  
+Por [Sinthian Marques ](https://github.com/SinthianMar) | [LinkedIn](https://www.linkedin.com/in/sinthianmarques) | sinthianmarquesjp@gmail.com
 
 
 
