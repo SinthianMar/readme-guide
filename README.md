@@ -11,7 +11,7 @@ Esses elementos são ideais para projetar Readmes com informações de projetos 
 
 ---
 
-### 1. Seções e Hierarquias
+## 1.  Seções e Hierarquias
 
 Use essas setas e marcadores para organizar seus tópicos e subtópicos de forma clara:
 
@@ -25,7 +25,7 @@ Use essas setas e marcadores para organizar seus tópicos e subtópicos de forma
 
 ---
 
-### 2. Tecnologias e Ferramentas
+## 2. Tecnologias e Ferramentas
 
 Para representar tecnologias, pastas, arquivos e afins:
 
@@ -46,7 +46,7 @@ Para representar tecnologias, pastas, arquivos e afins:
 
 ---
 
-### 3. Processos, Ações e Fluxos
+## 3. Processos, Ações e Fluxos
 
 Para mostrar status de tarefas, progresso ou mudanças:
 
@@ -60,7 +60,7 @@ Para mostrar status de tarefas, progresso ou mudanças:
 
 ---
 
-### 4. Colaboração e Equipe
+## 4. Colaboração e Equipe
 
 Ideal para destacar aspectos colaborativos:
 
@@ -71,7 +71,7 @@ Ideal para destacar aspectos colaborativos:
 
 ---
 
-### 5. Contato e Links
+## 5. Contato e Links
 
 📧 E-mail de contato  
 🔗 Links úteis ou navegação externa  
@@ -79,7 +79,7 @@ Ideal para destacar aspectos colaborativos:
 
 ---
 
-### 6. Status de Projeto
+## 6. Status de Projeto
 
 🟢 Em andamento  
 🔴 Não iniciado ou interrompido  
@@ -89,7 +89,7 @@ Ideal para destacar aspectos colaborativos:
 
 ---
 
-## 🔁 Sugestão de uso no Markdown
+### 🔁 Sugestão de uso no Markdown
 
 ```bash
 ➤ Título Principal
@@ -104,7 +104,7 @@ Ideal para destacar aspectos colaborativos:
 
 ---
 
-## 📂 Estrutura de Pastas
+### 📂 Estrutura de Pastas
 
 ```bash
 📁 src/
