@@ -74,9 +74,10 @@ Ideal para destacar aspectos colaborativos:
 
 ## 5. Contato e Links
 
-📧 E-mail de contato  
-🔗 Links úteis ou navegação externa  
-💬 Para interação (ex: fóruns, suporte, etc.)
+- 🪪 Descrição da profissão
+- 📧 E-mail de contato
+- 🔗 Links úteis ou navegação externa  
+- 💬 Para interação (ex: fóruns, suporte, etc.)
 
 ---
 
